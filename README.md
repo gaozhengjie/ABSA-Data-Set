@@ -18,6 +18,6 @@ The detailed introduction of this task can be found at http://alt.qcri.org/semev
 
 Data and tools can be found at http://alt.qcri.org/semeval2014/task4/index.php?id=data-and-tools .
 
-![1555047523773](C:\Users\gzj\AppData\Roaming\Typora\typora-user-images\1555047523773.png)
+![1555047523773](https://www.gaozhengjie.cn/usr/uploads/2019/04/2244174422.png)
 
 > Note: V1 and V2 are just our definition of it.
